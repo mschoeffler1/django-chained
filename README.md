@@ -1,0 +1,4 @@
+django-chained
+==============
+
+exploring django
